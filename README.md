@@ -228,28 +228,6 @@ VPC_ID=your-vpc-id
 - [ ] **Database Migration**: Consider RDS for structured data storage
 - [ ] **API Versioning**: Implement proper API versioning strategy
 
-## 🤝 Contributing
-
-We welcome contributions to improve the Recipe Generation App! Please follow these guidelines:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)
-3. **Commit your changes** (`git commit -m 'Add amazing feature'`)
-4. **Push to the branch** (`git push origin feature/amazing-feature`)
-5. **Open a Pull Request**
-
-### Development Setup
-```bash
-# Install development dependencies
-pip install -r requirements-dev.txt
-
-# Run tests
-python -m pytest tests/
-
-# Format code
-black . && flake8 .
-```
-
 ## 📄 License
 
 This project is part of CSCI 5411 coursework and is intended for educational purposes.
